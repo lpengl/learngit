@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 ABC is good.
+=======
+This is my learn git test.
+>>>>>>> d68a68e4cf375bb45f75111c5a6ad56f9b718474
